@@ -16,6 +16,11 @@ body
     padding: .5em;
     font-weight: bold;
 }
+#cabecera #blog
+{
+    font-size: 9px;
+    vertical-align: super;
+}
 #cabecera #tagline
 {
     margin: 0 0 0 1em;
