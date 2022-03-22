@@ -19,7 +19,7 @@ body
 }
 #hyper,#super
 {
-    
+    font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
 }
 #super
