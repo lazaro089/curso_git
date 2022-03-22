@@ -19,7 +19,11 @@ body
 }
 #hyper,#super
 {
+<<<<<<< HEAD
     font-weight: bolder;
+=======
+    font-weight: bold;
+>>>>>>> cabecera
     font-family: 'Courier New', Courier, monospace;
 }
 #super
